@@ -6,9 +6,10 @@ Hello, I'm <a href="https://github.com/Vaishnavi-chintha" target="_blank" rel="n
 
 A computer science student figuring out life and languages. Mostly just trying to make sense of things — in code and otherwise.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-chintha&show_icons=true&locale=en" alt="vaishnavi-chintha" /></p>
+<div align = "center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-chintha&show_icons=true&locale=en&theme=dark" alt="vaishnavi-chintha" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-chintha&show_icons=true&locale=en&layout=compact" alt="vaishnavi-chintha" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-chintha&show_icons=true&locale=en&theme=dark&layout=compact" alt="vaishnavi-chintha" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-chintha&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-chintha" /> </p>
 
@@ -32,7 +33,7 @@ A computer science student figuring out life and languages. Mostly just trying t
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-chintha&" alt="vaishnavi-chintha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-chintha&theme=dark" alt="vaishnavi-chintha" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-chintha" alt="vaishnavi-chintha"  height="200"/></a> </p> -->
 
