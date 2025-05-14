@@ -9,7 +9,8 @@ A computer science student figuring out life and languages. Mostly just trying t
 <div align = "center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-chintha&show_icons=true&locale=en&theme=dark" alt="vaishnavi-chintha" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-chintha&show_icons=true&locale=en&theme=dark&layout=compact" alt="vaishnavi-chintha" /> </p>
+<div align = "center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-chintha&show_icons=true&locale=en&theme=dark&layout=compact" alt="vaishnavi-chintha" /> </p>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-chintha&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-chintha" /> </p>
 
