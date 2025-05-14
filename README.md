@@ -34,7 +34,7 @@ A computer science student figuring out life and languages. Mostly just trying t
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-chintha&theme=dark" alt="vaishnavi-chintha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-chintha&theme=dark" alt="vaishnavi-chintha-streak" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-chintha" alt="vaishnavi-chintha"  height="200"/></a> </p> -->
 
