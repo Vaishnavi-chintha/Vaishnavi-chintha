@@ -26,3 +26,5 @@ A computer science student figuring out life and languages. Mostly just trying t
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-chintha&show_icons=true&locale=en" alt="vaishnavi-chintha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-chintha&" alt="vaishnavi-chintha" /></p>
+
+![snake gif](https://github.com/Vaishnavi-chintha/Vaishnavi-chintha/blob/output/github-snake-dark.svg)
