@@ -14,11 +14,11 @@ A computer science student figuring out life and languages. Mostly just trying t
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-chintha&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-chintha" /> </p>
 
-- 🔭 I’m currently working on [Watt Home](https://github.com/Vaishnavi-chintha/Watt_Home)
+- 🔭 I’m currently working on [My portfolio](https://github.com/Vaishnavi-chintha/Rubix_portfolio)
 
 - 🌱 I’m currently learning **AI, Planning systems, React**
 
-- 💬 Ask me about **React, PDDL, Reinforcement algorithms**
+- 💬 Ask me about **React, PDDL, Frontend development and design**
 
 - 📫 How to reach me **vaishnavichintha2812@gmail.com**
 
