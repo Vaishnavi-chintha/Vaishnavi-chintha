@@ -4,7 +4,7 @@
 Hello, I'm <a href="https://github.com/Vaishnavi-chintha" target="_blank" rel="noreferrer">Vaishnavi</a> 👋
 </h3>
 
-A computer science student figuring out life and languages. Mostly just trying to make sense of things — in code and otherwise.
+A computer science grad figuring out life. Mostly just trying to make sense of things — in work and otherwise.
 
 <div align = "center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-chintha&show_icons=true&locale=en&theme=dark" alt="vaishnavi-chintha" /></p>
 </div>
@@ -14,11 +14,11 @@ A computer science student figuring out life and languages. Mostly just trying t
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-chintha&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-chintha" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/Vaishnavi-chintha/Rubix_portfolio)
+- I’m currently researching [LLM-Guided Multi-Agent Planning](https://github.com/Vaishnavi-chintha/LLM_Guided_Multi_Agent_Planning)
 
-- 🌱 I’m currently learning **AI, Planning systems, React**
+- I’m currently learning **AI, Machine learning, Planning systems, React**
 
-- 💬 Ask me about **React, PDDL, Frontend development and design**
+- Ask me about **React, PDDL, my dissertation research, and life**
 
 - 📫 How to reach me **vaishnavichintha2812@gmail.com**
 
