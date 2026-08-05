@@ -1,4 +1,4 @@
-![Image](./Black_LinkedIn_Banner.png)
+![Image](./BlackLinkedInBanner.png)
 
 <h3 align="center">
 Hello, I'm <a href="https://github.com/Vaishnavi-chintha" target="_blank" rel="noreferrer">Vaishnavi</a> 👋
